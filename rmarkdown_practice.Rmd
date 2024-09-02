@@ -43,5 +43,5 @@ _Seunghun0617_
 
 * Interpret and predict dataset trends using statistical inference and models.
 
-* Critically examine and interpret statistical claims reported in mass media
+* Critically examine and interpret statistical claims reported in mass media.
 
