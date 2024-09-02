@@ -45,3 +45,14 @@ _Seunghun0617_
 
 * Critically examine and interpret statistical claims reported in mass media.
 
+# Including Code
+
+## Running R code in a code chunk
+```{r}
+X <- 2+2
+X + 3
+```
+
+The output of first line of code is not printed out because it is assigned to a variable instead.
+
+The second line of output is printed out instead, but this means that the calculated value has not been saved for future use.
